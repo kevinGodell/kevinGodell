@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Buy me a coffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-red?logo=buy%20me%20a%20coffee)](https://buymeacoffee.com/kevinGodell) 
+
 <!--
 **kevinGodell/kevinGodell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
