@@ -2,6 +2,8 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-red?logo=buy%20me%20a%20coffee)](https://buymeacoffee.com/kevinGodell) 
 
+[![Sponsored by moe @ shinobi cctv](https://img.shields.io/badge/sponsored%20by-moe%20%40%20shinobi%20cctv-blue)](https://shinobi.video/)
+
 <!--
 **kevinGodell/kevinGodell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
